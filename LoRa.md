@@ -12,7 +12,6 @@
 | **Security**                    | AES-128 encryption                           | AES-128 encryption                           | No built-in encryption                      |
 | **Form Factor**                 | Compact and lightweight                      | Compact and lightweight                      | Larger and heavier                          |
 | **Integration Ease**            | Easy integration into small satellites       | Easy integration into small satellites       | More complex integration                    |
-| **Typical Applications**        | Satellite communication, IoT, remote sensing | IoT, remote sensing                          | IoT, local area networks                    |
 | **Cost**                        | Competitive for its feature set              | Similar to SX1276                            | Generally lower cost                        |
 
 
