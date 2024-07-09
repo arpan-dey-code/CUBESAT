@@ -15,6 +15,8 @@
 | **Cost**                        | Competitive for its feature set              | Similar to SX1276                            | Generally lower cost                        |
 
 
+### Mini-Circuits ZX60-P103LN+
+
 | Feature                  | Description                                      |
 |--------------------------|--------------------------------------------------|
 | **Frequency Range**      | 50 MHz to 1 GHz                                  |
