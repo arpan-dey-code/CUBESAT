@@ -14,3 +14,18 @@
 | **Integration Ease**            | Easy integration into small satellites       | Easy integration into small satellites       | More complex integration                    |
 | **Typical Applications**        | Satellite communication, IoT, remote sensing | IoT, remote sensing                          | IoT, local area networks                    |
 | **Cost**                        | Competitive for its feature set              | Similar to SX1276                            | Generally lower cost                        |
+
+
+| Feature                  | Description                                      |
+|--------------------------|--------------------------------------------------|
+| **Frequency Range**      | 50 MHz to 1 GHz                                  |
+| **Gain**                 | 21 dB                                            |
+| **Noise Figure**         | 0.8 dB                                           |
+| **Input/Output Impedance** | 50 ohms                                         |
+| **Supply Voltage**       | +3 to +5 V DC                                    |
+| **Current Consumption**  | 8 mA typical                                     |
+| **Package Type**         | SOT-89                                           |
+| **Dimensions**           | 4.5 mm x 4.1 mm x 1.8 mm                          |
+| **Weight**               | Approximately 5 grams (0.18 ounces)               |
+| **Applications**         | Satellite communication, RF receivers, antennas  |
+
