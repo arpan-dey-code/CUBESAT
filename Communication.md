@@ -1,4 +1,4 @@
-## Comparison Table: Semtech SX1276 vs. RFM95W and HopeRF RFM69HW for Satellite Long Range Communication
+# Comparison Table: Semtech SX1276 vs. RFM95W and HopeRF RFM69HW for Satellite Long Range Communication
 
 | Feature                         | Semtech SX1276                               | RFM95W                                       | HopeRF RFM69HW                              |
 |---------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
@@ -15,7 +15,7 @@
 | **Cost**                        | Competitive for its feature set              | Similar to SX1276                            | Generally lower cost                        |
 
 
-RF5110G
+# RF5110G
 | **Parameter**                      | **Value**                      |
 |------------------------------------|--------------------------------|
 | **Frequency Range**                | 150 MHz to 960 MHz             |
