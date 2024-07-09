@@ -18,7 +18,7 @@
 | Feature                  | Description                                      |
 |--------------------------|--------------------------------------------------|
 | **Frequency Range**      | 50 MHz to 1 GHz                                  |
-| **Gain**                 | 21 dB                                            |
+| **Gain**                 | 21 dB (0.1259W)                                  |
 | **Noise Figure**         | 0.8 dB                                           |
 | **Input/Output Impedance** | 50 ohms                                         |
 | **Supply Voltage**       | +3 to +5 V DC                                    |
