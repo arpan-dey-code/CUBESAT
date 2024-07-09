@@ -15,7 +15,7 @@
 | **Cost**                        | Competitive for its feature set              | Similar to SX1276                            | Generally lower cost                        |
 
 
-# RF5110G
+# RF5110G  (Power Amplifier)
 | **Parameter**                      | **Value**                      |
 |------------------------------------|--------------------------------|
 | **Frequency Range**                | 150 MHz to 960 MHz             |
