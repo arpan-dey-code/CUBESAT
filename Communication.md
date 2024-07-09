@@ -18,13 +18,13 @@
 
 | Specification       | Details                                      |
 |---------------------|----------------------------------------------|
-| Frequency Range     | 0.1 GHz to 3.0 GHz                           |
-| PA Output Power     | Up to +23 dBm (PAE > 20%)                     |
-| LNA Noise Figure    | As low as 0.5 dB                              |
-| Gain (PA/LNA)       | Up to 28 dB (PA), up to 14 dB (LNA)           |
-| Supply Voltage      | 3.3V typical, 4.2V maximum                    |
-| Current Consumption | 120 mA (PA active), 60 mA (LNA active)        |
-| Package Type        | 3x3 mm QFN                                   |
-| Applications        | Satellite communication, CubeSats, RF front-end |
-| Features            | Single-supply operation, integrated PA and LNA |
+| **Frequency Range**     | 0.1 GHz to 3.0 GHz                           |
+| **PA Output Power**     | Up to +23 dBm (PAE > 20%)                     |
+| **LNA Noise Figure**    | As low as 0.5 dB                              |
+| **Gain (PA/LNA)**       | Up to 28 dB (PA), up to 14 dB (LNA)           |
+| **Supply Voltage**      | 3.3V typical, 4.2V maximum                    |
+| **Current Consumption** | 120 mA (PA active), 60 mA (LNA active)        |
+| **Package Type**        | 3x3 mm QFN                                   |
+| **Applications**        | Satellite communication, CubeSats, RF front-end |
+| **Features**            | Single-supply operation, integrated PA and LNA |
 
