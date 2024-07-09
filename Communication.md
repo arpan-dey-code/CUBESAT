@@ -31,7 +31,6 @@
 | **Standby Mode Current**           | 1 µA to 10 µA                  |
 | **Gain**                           | 32.5 dB (450 MHz), 32 dB (220 MHz), 31.5 dB (150 MHz) |
 | **Input Impedance**                | 50 Ω                           |
-| **Output Load Impedance**          | 2.6 – j1.5 Ω                   |
 | **Thermal Resistance**             | 25.6 °C/W                      |
 | **Turn ON/OFF Time**               | 100 ns                         |
 | **APC Input Capacitance**          | 10 pF                          |
