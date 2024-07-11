@@ -1,4 +1,4 @@
-# Comparison Table: Semtech SX1276 vs. RFM95W and HopeRF RFM69HW for Satellite Long Range Communication
+# Semtech SX1276 (LoRa Module)
 
 | Feature                         | Semtech SX1276                               | 
 |---------------------------------|----------------------------------------------|
