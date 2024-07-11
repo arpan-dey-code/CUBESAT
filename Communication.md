@@ -15,6 +15,8 @@
 | **Integration Ease**            | Easy integration into small satellites       | 
 | **Cost**                        | Competitive for its feature set              |
 
+## with FSK modulation data rate is around 300 kbps
+
 
 # RF5110G  (Power Amplifier)
 | **Parameter**                      | **Value**                      |
