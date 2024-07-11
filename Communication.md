@@ -10,6 +10,7 @@
 | **Scalability**                 | Supports a large number of nodes             | Supports a large number of nodes             | Limited scalability                         |
 | **Data Rate**                   | 0.3 kbps to 37.5 kbps                        | 0.3 kbps to 37.5 kbps                        | 1.2 kbps to 300 kbps                        |
 | **Security**                    | AES-128 encryption                           | AES-128 encryption                           | No built-in encryption                      |
+| **Output Impedance**            | 50 ohm                                       | 50 ohm                                       | 50 ohm                                      |
 | **Form Factor**                 | Compact and lightweight                      | Compact and lightweight                      | Larger and heavier                          |
 | **Integration Ease**            | Easy integration into small satellites       | Easy integration into small satellites       | More complex integration                    |
 | **Cost**                        | Competitive for its feature set              | Similar to SX1276                            | Generally lower cost                        |
@@ -35,4 +36,24 @@
 | **Turn ON/OFF Time**               | 100 ns                         |
 | **APC Input Capacitance**          | 10 pF                          |
 | **APC Input Current**              | 4.5 mA to 5 mA                 |
+
+
+# TQP3M9035 (Low Noise Amplifier) 
+| Feature                    | Value                              |
+|----------------------------|------------------------------------|
+| **Operating Frequency Range**  | 50 - 6000 MHz                      |
+| **Gain (at 1900 MHz)**         | 16.5 dB                            |
+| **Noise Figure (at 1900 MHz)** | 0.65 dB                            |
+| **Output IP3 (at 1900 MHz)**   | +37 dBm                            |
+| **Output P1dB (at 1900 MHz)**  | +22.5 dBm                          |
+| **Supply Voltage**             | +5V (typical), range: +3.3V to +5.25V |
+| **Current Consumption**        | 115 mA (typical), max 150 mA       |
+| **Shutdown Capability**        | Yes                                |
+| **Package Size **              | 2x2 mm, 8 Pin DFN                  |
+| **Input Return Loss**          | 13 dB                              |
+| **Output Return Loss **        | 10 dB                              |
+| **Storage Temperature**        | -65°C to 150°C                     |
+| **Thermal Resistance  **       | 50°C/W                             |
+| **Switching Speed (Rise/Fall)**| 165 ns / 255 ns                    |
+| **Impedance  **                | 50 Ω                               |
 
