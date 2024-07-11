@@ -51,7 +51,7 @@
 | **Shutdown Capability**        | Yes                                |
 | **Package Size**              | 2x2 mm, 8 Pin DFN                  |
 | **Input Return Loss**          | 13 dB                              |
-| **Output Return Loss **        | 10 dB                              |
+| **Output Return Loss**        | 10 dB                              |
 | **Storage Temperature**        | -65°C to 150°C                     |
 | **Thermal Resistance**       | 50°C/W                             |
 | **Switching Speed (Rise/Fall)**| 165 ns / 255 ns                    |
