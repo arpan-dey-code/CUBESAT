@@ -49,11 +49,11 @@
 | **Supply Voltage**             | +5V (typical), range: +3.3V to +5.25V |
 | **Current Consumption**        | 115 mA (typical), max 150 mA       |
 | **Shutdown Capability**        | Yes                                |
-| **Package Size **              | 2x2 mm, 8 Pin DFN                  |
+| **Package Size**              | 2x2 mm, 8 Pin DFN                  |
 | **Input Return Loss**          | 13 dB                              |
 | **Output Return Loss **        | 10 dB                              |
 | **Storage Temperature**        | -65°C to 150°C                     |
-| **Thermal Resistance  **       | 50°C/W                             |
+| **Thermal Resistance**       | 50°C/W                             |
 | **Switching Speed (Rise/Fall)**| 165 ns / 255 ns                    |
-| **Impedance  **                | 50 Ω                               |
+| **Impedance**                | 50 Ω                               |
 
