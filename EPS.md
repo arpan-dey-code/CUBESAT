@@ -5,7 +5,7 @@
 | **Cell Type**                                | InGaP/GaAs/Ge on Ge substrate                        | Quadruple Junction GaAs                              |
 | **Dimensions (mm)**                          | 40 x 80                                              | 40 x 80                                              |
 | **Cell Area (cm²)**                          | 30.18                                                | 30.18                                                |
-| **Weight (mg/cm²)**                          | ≤ 86                                                 | ≤ 1780                                               |
+| **Weight (mg/cm²)**                          | ≤ 86                                                 | ≤ 59                                                 |
 | **Thickness (µm)**                           | 150 ± 20                                             | 110 ± 12                                             |
 | **AR-coating**                               | TiOx/Al2O3                                           | TiOx/Al2O3                                           |
 | **Grid Design**                              | Grid system with 3 contact pads                      | Grid system with 3 contact pads                      |
